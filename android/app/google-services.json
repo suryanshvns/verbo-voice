@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263289970384",
+    "project_id": "authorization-ca9f5",
+    "storage_bucket": "authorization-ca9f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263289970384:android:576f96f92c2818ffba48d5",
+        "android_client_info": {
+          "package_name": "com.example.verbo_voice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmbPnIy5hMgcaDalF8xhUttkkEBOAuBRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
